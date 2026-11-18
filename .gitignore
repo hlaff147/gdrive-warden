@@ -1,0 +1,9 @@
+# Private Google Drive audit reports, File IDs, WAL logs, and local snapshots
+reports/
+*.jsonl
+*.csv
+*.xlsx
+.DS_Store
+node_modules/
+__pycache__/
+.env
